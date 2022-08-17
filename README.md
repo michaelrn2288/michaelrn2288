@@ -20,7 +20,7 @@
   <article>
     Atualmente estou estudando programação e estou em busca do meu primeiro emprego na área.<br>
     Já concluí um curso de desenvolvedor fullstack júnior, onde aprendi HTML5, CSS3, HTML semântico, JavaScript, NodeJS e SQL.<br>
-    O meu foco atual está sendo em aprimorar minhas habilidades em JavaScript, depois me aprofundar em Node, depois aprender React e TypeScrit.
+    O meu foco atual está sendo em aprimorar minhas habilidades em HTML, CSS e, principalmente, JavaScript (a linguagem que mais despertou meu interesse). Em seguida, irei me aprofundar em Node, depois aprender React e TypeScrit.
   </article>
 </section>
 <br>

@@ -23,3 +23,6 @@
     O meu foco atual está sendo em aprimorar minhas habilidades em JavaScript, depois me aprofundar em Node, depois aprender React e TypeScrit.
   </article>
 </section>
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelrn2288)](https://github.com/michaelrn2288/github-readme-stats)

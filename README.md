@@ -17,11 +17,21 @@
 
 <section>
   <h3>Resumo</h3>
-  <article>
-    Atualmente estou estudando programação e estou em busca do meu primeiro emprego na área.<br>
-    Já concluí um curso de desenvolvedor fullstack júnior, onde aprendi HTML5, CSS3, HTML semântico, JavaScript, NodeJS e SQL.<br>
-    O meu foco atual está sendo em aprimorar minhas habilidades em HTML, CSS e, principalmente, JavaScript (a linguagem que mais despertou meu interesse). Em seguida, irei me aprofundar em Node, depois aprender React e TypeScrit.
-  </article>
+  <ul>
+  <li>Curso concluído com certificado de desenvolvedor fullstack júnior, pela Tech Academy da StartSe;</li>
+  <li>Em busca do meu primeiro emprego na área como desenvolvedor web;</li>
+  <li>Atualmente aprimorando minhas habilidades principalmente em JavaScript;</li>
+  <li>Praticando também CSS e HTML;</li>
+  <li>Me aprofundando em Node.js</li>
+  </ul>
+
+<h3>Próximas etapas de estudo:</h3>
+<ol>
+<li>MongoDB</li>
+<li>API REST</li>
+<li>React</li>
+<li>TypeScript</li>
+</ol>
 </section>
 <br>
 

@@ -35,4 +35,11 @@
 </section>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelrn2288)](https://github.com/michaelrn2288/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelrn2288)](https://github.com/michaelrn2288/github-readme-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=michaelrn2288)](https://github.com/michaelrn2288/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michaelrn2288&repo=Super-Mario)](https://github.com/michaelrn2288/Super-Mario) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michaelrn2288&repo=validador-de-cpf)](https://github.com/michaelrn2288/validador-de-cpf)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michaelrn2288&repo=gerador_de_senha)](https://github.com/michaelrn2288/gerador_de_senha) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michaelrn2288&repo=lista-de-tarefas)](https://github.com/michaelrn2288/lista-de-tarefas)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michaelrn2288&repo=cronometro)](https://github.com/michaelrn2288/cronometro) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michaelrn2288&repo=Calculadora-IMC)](https://github.com/michaelrn2288/Calculadora-IMC)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michaelrn2288&repo=Change-Text-Tools)](https://github.com/michaelrn2288/Change-Text-Tools) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michaelrn2288&repo=Animation-Following-Mouse)](https://github.com/michaelrn2288/Animation-Following-Mouse)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michaelrn2288&repo=formulario)](https://github.com/michaelrn2288/formulario) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michaelrn2288&repo=verifica_numeros_primos)](https://github.com/michaelrn2288/verifica_numeros_primos)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michaelrn2288&repo=Portfolio)](https://github.com/michaelrn2288/Portfolio) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michaelrn2288&repo=calculadora)](https://github.com/michaelrn2288/calculadora)

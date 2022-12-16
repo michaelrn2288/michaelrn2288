@@ -19,14 +19,12 @@
   <h3>Resumo</h3>
   <ul>
   <li>Curso concluído com certificado de desenvolvedor fullstack júnior, pela Tech Academy da StartSe;</li>
-  <li>Em busca do meu primeiro emprego na área como desenvolvedor web;</li>
+  <li>Em busca do meu primeiro emprego como desenvolvedor front-end;</li>
   <li>Atualmente estudando e praticando React;</li>
   </ul>
 
-<h3>Próximas etapas de estudo:</h3>
+<h3>Próxima etapa de estudo:</h3>
 <ol>
-<li>MongoDB</li>
-<li>API REST</li>
 <li>TypeScript</li>
 </ol>
 </section>

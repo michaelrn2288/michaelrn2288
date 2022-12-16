@@ -1,7 +1,7 @@
 <h1>Michael Rocha Nunes</h1>
 
 <div>
-  <h2>Desenvolvedor Web Júnior</h2>
+  <h2>Desenvolvedor front-end Júnior</h2>
   <section>
     <h3>Habilidades</h3>
     <img src="https://github.com/michaelrn2288/michaelrn2288/blob/main/icons/javascript.png" width="50px">

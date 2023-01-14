@@ -7,7 +7,6 @@
     <img src="https://github.com/michaelrn2288/michaelrn2288/blob/main/icons/javascript.png" width="50px">
     <img src="https://github.com/michaelrn2288/michaelrn2288/blob/main/icons/css3.png" width="50px">
     <img src="https://github.com/michaelrn2288/michaelrn2288/blob/main/icons/html5.png" width="50px">
-    <img src="https://github.com/michaelrn2288/michaelrn2288/blob/main/icons/vscode.png" width="50px">
     <img src="https://github.com/michaelrn2288/michaelrn2288/blob/main/icons/sql.png" width="50px">
     <img src="https://github.com/michaelrn2288/michaelrn2288/blob/main/icons/nodejs.png" width="50px">
     <img src="https://github.com/michaelrn2288/michaelrn2288/blob/main/icons/vba.png" width="50px">
